@@ -1,0 +1,11 @@
+C:\Users\ESTUDIANTES\Desktop\puzzle\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\ESTUDIANTES\Desktop\puzzle\presentacion\bin\Debug\presentacion.exe
+C:\Users\ESTUDIANTES\Desktop\puzzle\presentacion\bin\Debug\presentacion.pdb
+C:\Users\ESTUDIANTES\Desktop\puzzle\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Desktop\puzzle\presentacion\obj\Debug\presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ESTUDIANTES\Desktop\puzzle\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\ESTUDIANTES\Desktop\puzzle\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\ESTUDIANTES\Desktop\puzzle\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\puzzle\presentacion\obj\Debug\presentacion.exe
+C:\Users\ESTUDIANTES\Desktop\puzzle\presentacion\obj\Debug\presentacion.pdb
+C:\Users\ESTUDIANTES\Desktop\puzzle\presentacion\obj\Debug\presentacion.Form1.resources
