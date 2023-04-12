@@ -1,0 +1,11 @@
+C:\Users\victo\Documents\c# codes\Puzzle\presentacion\bin\Debug\presentacion.exe.config
+C:\Users\victo\Documents\c# codes\Puzzle\presentacion\bin\Debug\presentacion.exe
+C:\Users\victo\Documents\c# codes\Puzzle\presentacion\bin\Debug\presentacion.pdb
+C:\Users\victo\Documents\c# codes\Puzzle\presentacion\obj\Debug\presentacion.csproj.AssemblyReference.cache
+C:\Users\victo\Documents\c# codes\Puzzle\presentacion\obj\Debug\presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\Documents\c# codes\Puzzle\presentacion\obj\Debug\presentacion.Form1.resources
+C:\Users\victo\Documents\c# codes\Puzzle\presentacion\obj\Debug\presentacion.Properties.Resources.resources
+C:\Users\victo\Documents\c# codes\Puzzle\presentacion\obj\Debug\presentacion.csproj.GenerateResource.cache
+C:\Users\victo\Documents\c# codes\Puzzle\presentacion\obj\Debug\presentacion.csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\c# codes\Puzzle\presentacion\obj\Debug\presentacion.exe
+C:\Users\victo\Documents\c# codes\Puzzle\presentacion\obj\Debug\presentacion.pdb
