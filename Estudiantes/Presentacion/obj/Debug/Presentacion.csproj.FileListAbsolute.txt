@@ -1,0 +1,14 @@
+C:\Users\Daniel\source\repos\Entidades\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Daniel\source\repos\Entidades\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Daniel\source\repos\Entidades\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Daniel\source\repos\Entidades\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Daniel\source\repos\Entidades\Presentacion\bin\Debug\Logica.dll
+C:\Users\Daniel\source\repos\Entidades\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Daniel\source\repos\Entidades\Presentacion\bin\Debug\Logica.pdb
+C:\Users\Daniel\source\repos\Entidades\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Entidades\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Entidades\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Daniel\source\repos\Entidades\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Daniel\source\repos\Entidades\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Daniel\source\repos\Entidades\Presentacion\bin\Debug\Datos.dll
+C:\Users\Daniel\source\repos\Entidades\Presentacion\bin\Debug\Datos.pdb
